@@ -1,1 +1,2 @@
 Adding to test Git plugin
+Adding to test GitHook Plugin
